@@ -11,7 +11,7 @@ export default function Footer() {
                 <div className="space-y-8">
                     <div>
                         <h3 className="font-display text-3xl text-white mb-2">Visit The Lab</h3>
-                        <p className="font-mono text-white/60">Kozhikode, Kerala, India <br /><span className="text-xs opacity-50">7Q5G+75</span></p>
+                        <p className="font-mono text-white/60">Kozhikode, Kerala, India</p>
                     </div>
 
                     {/* Dark Map Embed */}

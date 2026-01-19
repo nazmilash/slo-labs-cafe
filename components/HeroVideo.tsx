@@ -31,8 +31,8 @@ export default function HeroVideo() {
                         repeatType: "loop"
                     }}
                 >
-                    <h1 className="font-display text-4xl md:text-9xl font-bold tracking-tight text-white uppercase text-center leading-none">
-                        Brewing<br />Imminently<span className="animate-pulse text-sunset-yellow">_</span>
+                    <h1 className="font-display text-3xl md:text-7xl font-bold tracking-tight text-white uppercase text-center leading-none">
+                        Brewing<br />Imminently
                     </h1>
                 </motion.div>
 

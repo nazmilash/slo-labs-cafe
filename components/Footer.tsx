@@ -11,13 +11,13 @@ export default function Footer() {
                 <div className="space-y-8">
                     <div>
                         <h3 className="font-display text-3xl text-white mb-2">Visit The Lab</h3>
-                        <p className="font-mono text-white/60">London, UK</p>
+                        <p className="font-mono text-white/60">Kozhikode, Kerala, India <br /><span className="text-xs opacity-50">7Q5G+75</span></p>
                     </div>
 
                     {/* Dark Map Embed */}
                     <div className="w-full h-64 relative overflow-hidden rounded-sm filter grayscale invert contrast-125 opacity-80 hover:opacity-100 transition-opacity">
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d158858.18237072596!2d-0.10159865000000001!3d51.52864165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2sLondon%2C%20UK!5e0!3m2!1sen!2sus!4v1705600000000!5m2!1sen!2sus"
+                            src="https://maps.google.com/maps?q=7Q5G%2B75%20Kozhikode%2C%20Kerala%2C%20India&t=&z=13&ie=UTF8&iwloc=&output=embed"
                             width="100%"
                             height="100%"
                             style={{ border: 0 }}

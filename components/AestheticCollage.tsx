@@ -11,7 +11,7 @@ const rows = [
         {
             src: "/images/barista_pour.jpeg",
             alt: "Extraction",
-            caption: "Extraction",
+            caption: "Pour Over",
         },
         {
             src: "/images/crema_por.jpeg",
@@ -27,18 +27,18 @@ const rows = [
     [
         {
             src: "/images/matcha.png",
-            alt: "Matcha",
-            caption: "Matcha",
+            alt: "Matcha and Double Baked Almond Croissant",
+            caption: "Matcha and Frangipane",
         },
         {
             src: "/images/ice_latte.png",
             alt: "Iced",
-            caption: "Cold Process",
+            caption: "Iced Latte",
         },
         {
             src: "/images/crois_sando.png",
-            alt: "Pastry",
-            caption: "Pairing",
+            alt: "Slow-cooked Beef Croissant Sandwich",
+            caption: "Slow-cooked Beef Croissant Sandwich",
         }
     ]
 ];
